@@ -1,0 +1,309 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Request a Consultation"
+  },
+  "hero": {
+    "eyebrow": "Furniture & Interior Solutions",
+    "title": "Bespoke Interiors. Crafted in Dubai.",
+    "subtitle": "A bespoke joinery and interior fit-out atelier creating refined residential, commercial, and hospitality spaces — where craftsmanship meets uncompromising quality.",
+    "ctaPrimary": "Request a Consultation",
+    "ctaSecondary": "View Our Craft"
+  },
+  "intro": {
+    "eyebrow": "Who We Are",
+    "title": "An atelier for those who expect more than furniture.",
+    "body": "Al Safi Furniture is a Dubai-based luxury interior fit-out and bespoke joinery manufacturer. We transform spaces into elegant, functional environments tailored to each client's vision — combining skilled artisanship with modern manufacturing to deliver interiors of lasting distinction.",
+    "stat1Value": "End-to-End",
+    "stat1Label": "Concept to Installation",
+    "stat2Value": "Bespoke",
+    "stat2Label": "Made to Measure",
+    "stat3Value": "Dubai",
+    "stat3Label": "Designed & Manufactured"
+  },
+  "marquee": {
+    "items": "Bespoke Joinery · In-House Manufacturing · Luxury Kitchens · Walk-in Wardrobes · Wall Paneling · Custom Furniture · Hospitality Fit-Out · Crafted in Dubai"
+  },
+  "whyUs": {
+    "eyebrow": "Why Al Safi",
+    "title": "Design, manufacturing, and installation — under one roof.",
+    "subtitle": "Most fit-out firms outsource the workshop. We don't. From the first drawing to the final fixing, your project never leaves our hands.",
+    "items": {
+      "inhouse": {
+        "title": "In-house manufacturing",
+        "description": "Our own Al Quoz workshop means full control over quality, timeline, and finish — no third-party guesswork."
+      },
+      "accountability": {
+        "title": "One point of accountability",
+        "description": "A single team owns your project end to end, so nothing is lost between designer, factory, and site."
+      },
+      "materials": {
+        "title": "Premium materials only",
+        "description": "European hardwoods, natural stone, and solid hardware — specified to last a lifetime, not a season."
+      },
+      "precision": {
+        "title": "Millimetre precision",
+        "description": "Modern machinery paired with hand-finishing delivers seamless joints and flawless surfaces."
+      }
+    }
+  },
+  "stats": {
+    "eyebrow": "The Atelier",
+    "title": "Built on craft, measured in detail.",
+    "items": {
+      "experience": { "value": "15+", "label": "Years of Craftsmanship" },
+      "projects": { "value": "500+", "label": "Projects Delivered" },
+      "rating": { "value": "4.3★", "label": "Google Rating" },
+      "inhouse": { "value": "100%", "label": "Manufactured In-House" }
+    }
+  },
+  "sectors": {
+    "eyebrow": "Who We Serve",
+    "title": "Refined interiors for every setting.",
+    "subtitle": "From private villas to flagship hospitality venues, we tailor every project to its purpose and audience.",
+    "items": {
+      "residential": {
+        "title": "Residential",
+        "description": "Villas, apartments, and penthouses — bespoke kitchens, wardrobes, and joinery made to measure."
+      },
+      "commercial": {
+        "title": "Commercial",
+        "description": "Offices, retail, and showrooms crafted to represent your brand with quiet authority."
+      },
+      "hospitality": {
+        "title": "Hospitality",
+        "description": "Hotels, restaurants, and lounges built with refined, durable finishes that endure heavy use."
+      }
+    }
+  },
+  "materials": {
+    "eyebrow": "Materials & Craft",
+    "title": "The substance behind the surface.",
+    "subtitle": "We work only with materials worthy of the spaces they define — selected, shaped, and finished by hand.",
+    "items": {
+      "wood": {
+        "title": "European Hardwoods",
+        "description": "Oak, walnut, and veneers selected for grain, stability, and warmth."
+      },
+      "stone": {
+        "title": "Natural Stone & Marble",
+        "description": "Book-matched slabs and precise stone cutting for statement surfaces."
+      },
+      "metal": {
+        "title": "Brass & Metal Detailing",
+        "description": "Custom profiles, trims, and hardware that elevate every edge."
+      },
+      "finish": {
+        "title": "Hand-Applied Finishes",
+        "description": "Dust-free lacquer and fine upholstery for a flawless, lasting feel."
+      }
+    }
+  },
+  "philosophy": {
+    "quote": "A space is only as refined as the hands that build it. By manufacturing in our own Dubai workshop, we hold every detail to a single standard — ours.",
+    "attribution": "The Al Safi Atelier"
+  },
+  "services": {
+    "eyebrow": "What We Do",
+    "title": "Comprehensive interior solutions, crafted in-house.",
+    "subtitle": "From a single bespoke piece to a complete turnkey interior, every project is handled with precision and discretion.",
+    "viewAll": "Explore All Services",
+    "gridTitle": "Eight disciplines. One atelier.",
+    "gridSubtitle": "Every service is designed, manufactured, and installed under one roof — for consistency, quality, and a single point of accountability.",
+    "highlights": {
+      "craft": {
+        "title": "In-house craftsmanship",
+        "description": "Skilled artisans and modern manufacturing under one roof in Al Quoz."
+      },
+      "materials": {
+        "title": "Premium materials",
+        "description": "Fine woods, stone, hardware, and finishes selected for longevity and feel."
+      },
+      "delivery": {
+        "title": "Turnkey delivery",
+        "description": "From first sketch to final installation — one team, one standard of care."
+      }
+    },
+    "items": {
+      "joinery": {
+        "title": "Custom Joinery",
+        "description": "Precision-crafted woodwork tailored to the architecture and character of your space."
+      },
+      "kitchens": {
+        "title": "Luxury Kitchens",
+        "description": "Bespoke kitchens that balance refined aesthetics with everyday functionality."
+      },
+      "wardrobes": {
+        "title": "Wardrobes & Cabinetry",
+        "description": "Made-to-measure storage and cabinetry designed around how you live."
+      },
+      "paneling": {
+        "title": "Wall Paneling",
+        "description": "Architectural wall treatments that add depth, warmth, and quiet luxury."
+      },
+      "furniture": {
+        "title": "Custom Furniture",
+        "description": "One-of-a-kind furniture pieces conceived, designed, and built to order."
+      },
+      "upholstery": {
+        "title": "Upholstery",
+        "description": "Fine upholstery and finishing that elevates comfort and craftsmanship."
+      },
+      "interiors": {
+        "title": "Complete Interiors",
+        "description": "Full interior fit-out for residential, commercial, and hospitality projects."
+      },
+      "consultation": {
+        "title": "Design Consultation",
+        "description": "Considered guidance from concept development through to final installation."
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "How We Work",
+    "title": "A considered process, from first sketch to final reveal.",
+    "steps": {
+      "concept": {
+        "title": "Concept",
+        "description": "We listen, study the space, and shape a vision aligned with your taste and requirements."
+      },
+      "design": {
+        "title": "Design",
+        "description": "Detailed design and material selection bring the concept into precise, buildable form."
+      },
+      "manufacturing": {
+        "title": "Manufacturing",
+        "description": "Our workshop crafts each element with modern technique and traditional care."
+      },
+      "installation": {
+        "title": "Installation",
+        "description": "Meticulous on-site installation delivers a flawless, finished result."
+      }
+    }
+  },
+  "reviews": {
+    "eyebrow": "Client Voices",
+    "title": "Trusted by clients across Dubai.",
+    "badge": "{rating} on Google · {count} reviews",
+    "onGoogle": "on",
+    "reviewCount": "reviews",
+    "attribution": "Reviews from Google",
+    "viewOnGoogle": "Read all reviews on Google",
+    "leaveReview": "Leave a review on Google"
+  },
+  "portfolio": {
+    "eyebrow": "Selected Work",
+    "title": "A glimpse of our craft.",
+    "subtitle": "Explore a curated selection of our bespoke joinery and interior projects.",
+    "followCta": "Follow us on Instagram",
+    "comingSoon": "Project gallery coming soon",
+    "viewAll": "View Portfolio",
+    "categories": {
+      "kitchen": "Bespoke Kitchens",
+      "wardrobe": "Wardrobes & Cabinetry",
+      "paneling": "Wall Paneling",
+      "joinery": "Custom Joinery",
+      "hospitality": "Hospitality Fit-Out",
+      "reception": "Reception Counters"
+    }
+  },
+  "about": {
+    "eyebrow": "About Al Safi",
+    "title": "Craftsmanship, innovation, and uncompromising quality.",
+    "lead": "AL SAFI FURNITURE MANUFACTURING LLC is a Dubai-based luxury interior fit-out and bespoke joinery manufacturing company specializing in premium residential, commercial, and hospitality interiors.",
+    "body1": "With a commitment to exceptional craftsmanship, innovative design, and uncompromising quality, we transform spaces into elegant and functional environments tailored to our clients' unique requirements.",
+    "body2": "Our expertise covers custom joinery, luxury kitchens, wardrobes, cabinetry, wall paneling, custom furniture, upholstery, and complete interior solutions. Combining skilled artisanship with modern manufacturing techniques, we deliver projects that seamlessly blend aesthetics, durability, and practicality.",
+    "body3": "From concept development and design consultation to manufacturing and installation, we provide end-to-end solutions that ensure precision, attention to detail, and customer satisfaction at every stage.",
+    "valuesTitle": "What guides us",
+    "values": {
+      "craftsmanship": {
+        "title": "Craftsmanship",
+        "description": "Every detail is executed with the care of skilled artisans."
+      },
+      "bespoke": {
+        "title": "Bespoke by Nature",
+        "description": "Each project is tailored entirely to the client's vision."
+      },
+      "quality": {
+        "title": "Uncompromising Quality",
+        "description": "Premium materials and finishes built to endure."
+      },
+      "partnership": {
+        "title": "Trusted Partnership",
+        "description": "A dependable partner from first idea to final handover."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Get in Touch",
+    "title": "Let's discuss your project.",
+    "subtitle": "Tell us about your space and your vision. Our team will be in touch to arrange a consultation.",
+    "formName": "Name",
+    "formEmail": "Email",
+    "formPhone": "Phone",
+    "formMessage": "Tell us about your project",
+    "formSubmit": "Send Enquiry",
+    "formNote": "Prefer to talk now? Reach us directly on WhatsApp.",
+    "whatsappCta": "Chat on WhatsApp",
+    "detailsTitle": "Visit Our Workshop",
+    "hoursTitle": "Opening Hours",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "addressLabel": "Address",
+    "reviewsTitle": "What our clients say"
+  },
+  "faq": {
+    "eyebrow": "Good to Know",
+    "title": "Frequently asked questions.",
+    "items": {
+      "scope": {
+        "question": "Do you handle both design and manufacturing?",
+        "answer": "Yes. We are a design-and-build atelier with our own workshop in Al Quoz — from concept and technical drawings to in-house fabrication and on-site installation."
+      },
+      "areas": {
+        "question": "Which areas do you serve?",
+        "answer": "We deliver projects across Dubai and the wider UAE, for residential, commercial, and hospitality clients."
+      },
+      "existing": {
+        "question": "Can you work from an architect's or designer's drawings?",
+        "answer": "Absolutely. We collaborate with architects, designers, and contractors, or we can develop the full design with you from scratch."
+      },
+      "timeline": {
+        "question": "How long does a typical project take?",
+        "answer": "Timelines depend on scope, but most bespoke joinery projects run from a few weeks to a few months. We confirm a clear schedule before work begins."
+      },
+      "quality": {
+        "question": "What materials and standards do you use?",
+        "answer": "We work with European hardwoods, natural stone, and premium hardware, finished to a millimetre tolerance for a flawless, lasting result."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Bespoke joinery and luxury interiors, crafted in Dubai.",
+    "explore": "Explore",
+    "connect": "Connect",
+    "visit": "Visit",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "whatsapp": {
+    "tooltip": "Consult via WhatsApp",
+    "prefill": "Hello Al Safi Furniture, I would like to enquire about a bespoke interior project."
+  },
+  "legal": {
+    "privacyTitle": "Privacy Policy",
+    "termsTitle": "Terms of Service",
+    "lastUpdated": "Last updated: June 2026",
+    "backHome": "Back to Home"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "The page you are looking for does not exist or has moved.",
+    "cta": "Return Home"
+  }
+}

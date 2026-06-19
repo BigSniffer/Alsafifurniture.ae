@@ -1,0 +1,27 @@
+Image credits
+=============
+
+Real project photography sourced from the client's official profiles:
+
+Instagram  @alsafi_furniture  (https://www.instagram.com/alsafi_furniture)
+Google     Al Safi Furniture Manufacturing LLC business profile
+
+hero-interior.jpg        Instagram — luxury open-plan kitchen & dining (ig-07)
+gallery-kitchen.jpg      Instagram — bespoke kitchen with marble island (ig-04)
+gallery-wardrobe.jpg     Instagram — floor-to-ceiling built-in wardrobes (ig-02)
+gallery-paneling.jpg     Instagram — fluted wall paneling & headboard (ig-12)
+gallery-joinery.jpg      Instagram — custom bathroom vanity & joinery (ig-03)
+gallery-hospitality.jpg  Instagram — grand residential / hospitality interior (ig-10)
+gallery-reception.jpg    Google Business — commercial retail fit-out (Mikasa display counter)
+about-craft.jpg          Instagram — on-site installation in progress (ig-09)
+
+Material close-ups (Materials & Craft section) — Unsplash License, free to use:
+materials/wood.jpg       Dark walnut wood grain
+materials/stone.jpg      White marble with grey veining
+materials/metal.jpg      Polished brass hardware on bespoke joinery
+materials/finish.jpg     Fine velvet upholstery on luxury seating
+
+To refresh images from the profiles, run:
+  python3 scripts/fetch_social_images.py
+
+Replace with higher-resolution originals from the client when available.
