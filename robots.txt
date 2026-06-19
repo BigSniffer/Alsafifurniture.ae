@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://bigsniffer.github.io/Alsafifurniture.ae/sitemap.xml
