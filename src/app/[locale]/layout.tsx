@@ -5,6 +5,7 @@ import { hasLocale, NextIntlClientProvider } from "next-intl";
 import { setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import { site } from "@/lib/site";
+import { asset } from "@/lib/assets";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { WhatsAppSticky } from "@/components/WhatsAppSticky";
@@ -43,16 +44,16 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     siteName: site.name,
-    images: ["/og-image.png"],
+    images: [asset("/og-image.png")],
   },
   icons: {
     icon: [
-      { url: "/favicon.ico", sizes: "any" },
-      { url: "/favicon.svg", type: "image/svg+xml" },
-      { url: "/favicon-32.png", sizes: "32x32", type: "image/png" },
+      { url: asset("/favicon.ico"), sizes: "any" },
+      { url: asset("/favicon.svg"), type: "image/svg+xml" },
+      { url: asset("/favicon-32.png"), sizes: "32x32", type: "image/png" },
     ],
-    shortcut: "/favicon.ico",
-    apple: "/apple-touch-icon.png",
+    shortcut: asset("/favicon.ico"),
+    apple: asset("/apple-touch-icon.png"),
   },
 };
 

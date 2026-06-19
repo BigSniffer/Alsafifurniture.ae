@@ -4,6 +4,7 @@ import Image from "next/image";
 import { useEffect, useState } from "react";
 import { useLocale, useTranslations } from "next-intl";
 import { Link, usePathname } from "@/i18n/navigation";
+import { asset } from "@/lib/assets";
 import { LanguageSwitcher } from "./LanguageSwitcher";
 
 const navKeys = ["home", "services", "portfolio", "about", "contact"] as const;
@@ -48,7 +49,7 @@ export function Header() {
           className="flex items-center"
         >
           <Image
-            src="/logo/lockup-horizontal-transparent.png"
+            src={asset("/logo/lockup-horizontal-transparent.png")}
             alt="Al Safi Furniture"
             width={310}
             height={94}

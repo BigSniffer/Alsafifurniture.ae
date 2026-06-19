@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { useTranslations } from "next-intl";
+import { asset } from "@/lib/assets";
 import { Reveal } from "./Reveal";
 
 const items = [
@@ -22,7 +23,7 @@ export function Materials() {
         >
           <div className="relative aspect-[4/3] overflow-hidden">
             <Image
-              src={image}
+              src={asset(image)}
               alt={t(`items.${key}.title`)}
               fill
               sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"

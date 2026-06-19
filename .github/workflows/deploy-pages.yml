@@ -27,7 +27,8 @@ jobs:
       - name: Build static site
         run: npm run build
         env:
-          GITHUB_PAGES: "true"
+          STATIC_EXPORT: "true"
+          NEXT_PUBLIC_BASE_PATH: /Alsafifurniture.ae
           NEXT_PUBLIC_SITE_URL: https://bigsniffer.github.io/Alsafifurniture.ae
 
       - name: Deploy to gh-pages branch

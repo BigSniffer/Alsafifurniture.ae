@@ -4,6 +4,7 @@ import Image from "next/image";
 import { motion, useReducedMotion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
+import { asset } from "@/lib/assets";
 import { ArchMark } from "./ArchMark";
 
 export function Hero() {
@@ -68,7 +69,7 @@ export function Hero() {
           <ArchMark className="pointer-events-none absolute -top-4 h-16 w-auto text-[var(--color-brown)] opacity-25 ltr:-left-2 rtl:-right-2 rtl:scale-x-[-1] sm:-top-6 sm:h-24 ltr:sm:-left-4 rtl:sm:-right-4" />
           <div className="relative aspect-[4/5] overflow-hidden bg-[var(--color-cream-deep)] shadow-[0_30px_80px_-40px_rgba(60,36,21,0.45)] ring-1 ring-[var(--color-line)]">
             <Image
-              src="/images/gallery-hospitality.jpg"
+              src={asset("/images/gallery-hospitality.jpg")}
               alt={t("title")}
               fill
               priority

@@ -1,6 +1,7 @@
 import type { CSSProperties } from "react";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
+import { asset } from "@/lib/assets";
 import { Reveal } from "./Reveal";
 
 const allServices = [
@@ -45,7 +46,7 @@ export function ServicesGrid({ limit }: { limit?: number }) {
           >
             <div className="relative aspect-[5/4] overflow-hidden sm:aspect-[4/3]">
               <Image
-                src={meta.image}
+                src={asset(meta.image)}
                 alt={t(`${key}.title`)}
                 fill
                 sizes="(max-width: 640px) 100vw, (max-width: 1280px) 50vw, 25vw"

@@ -8,6 +8,7 @@ import { ProcessSteps } from "@/components/ProcessSteps";
 import { Materials } from "@/components/Materials";
 import { Reveal } from "@/components/Reveal";
 import { ArchMark } from "@/components/ArchMark";
+import { asset } from "@/lib/assets";
 
 const values = ["craftsmanship", "bespoke", "quality", "partnership"] as const;
 
@@ -49,7 +50,7 @@ function AboutContent() {
             <ArchMark className="pointer-events-none absolute -top-5 h-20 w-auto text-[var(--color-brown)] opacity-25 ltr:-left-3 rtl:-right-3 rtl:scale-x-[-1]" />
             <div className="relative aspect-[4/5] overflow-hidden bg-[var(--color-cream)] shadow-[0_30px_80px_-40px_rgba(60,36,21,0.45)] ring-1 ring-[var(--color-line)]">
               <Image
-                src="/images/about-craft.jpg"
+                src={asset("/images/about-craft.jpg")}
                 alt={t("about.title")}
                 fill
                 sizes="(max-width: 1024px) 100vw, 40vw"

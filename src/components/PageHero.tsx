@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { asset } from "@/lib/assets";
 import { Reveal } from "./Reveal";
 import { ArchMark } from "./ArchMark";
 
@@ -54,7 +55,7 @@ export function PageHero({
             <ArchMark className="pointer-events-none absolute -top-4 z-10 h-16 w-auto text-[var(--color-brown)] opacity-20 ltr:-left-2 rtl:-right-2 rtl:scale-x-[-1] sm:h-20" />
             <div className="relative aspect-[4/3] overflow-hidden bg-[var(--color-cream)] shadow-[0_24px_60px_-30px_rgba(60,36,21,0.45)] ring-1 ring-[var(--color-line)] sm:aspect-[5/4] lg:aspect-[4/5]">
               <Image
-                src={image}
+                src={asset(image)}
                 alt={imageAlt ?? title}
                 fill
                 priority

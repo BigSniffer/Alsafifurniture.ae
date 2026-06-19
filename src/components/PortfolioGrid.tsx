@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { site } from "@/lib/site";
+import { asset } from "@/lib/assets";
 import { Reveal } from "./Reveal";
 
 const projects = [
@@ -25,7 +26,7 @@ export function PortfolioGrid() {
             className="group relative block aspect-[4/5] overflow-hidden rounded-sm bg-[var(--color-cream-deep)] sm:rounded-none"
           >
             <Image
-              src={p.src}
+              src={asset(p.src)}
               alt={t(`categories.${p.key}`)}
               fill
               sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"

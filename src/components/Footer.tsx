@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
+import { asset } from "@/lib/assets";
 import { site, whatsappLink } from "@/lib/site";
 
 const navKeys = ["services", "portfolio", "about", "contact"] as const;
@@ -52,7 +53,7 @@ export function Footer() {
         <div className="grid gap-12 lg:grid-cols-[1.4fr_1fr_1fr_1.2fr]">
           <div>
             <Image
-              src="/logo/lockup-horizontal-transparent.png"
+              src={asset("/logo/lockup-horizontal-transparent.png")}
               alt="Al Safi Furniture"
               width={310}
               height={94}

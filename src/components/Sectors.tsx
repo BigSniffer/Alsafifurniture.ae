@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { useTranslations } from "next-intl";
+import { asset } from "@/lib/assets";
 import { Reveal } from "./Reveal";
 
 const sectors = [
@@ -21,7 +22,7 @@ export function Sectors() {
         >
           <div className="relative aspect-[3/4] overflow-hidden">
             <Image
-              src={image}
+              src={asset(image)}
               alt={t(`items.${key}.title`)}
               fill
               sizes="(max-width: 1024px) 100vw, 33vw"
